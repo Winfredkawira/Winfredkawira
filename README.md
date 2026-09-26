@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi I am winfred kawira,
+Registered Nurse |Healthcare AI |AL Evaluation |Clinical Documentation |Python
+I am a registered Nurse with clinical healthcare experience who is intersecting healthcare skills and technology. I combine my nursing knowledge with AL,  data and technology to contribute to development of useful and reliable healthcare solutions.
+HEALTHCARE & NURSING 
+Patient assessment and monitoring.
+Nursing care planning.
+Clinical documentation.
+Patient education.
+Patient safety monitoring.
+Healthcare operations.
+AI & DATA EXPERIENCE.
+AI response rating.
+AL response evaluation
+Data annotation
+AI QUALITY ASSESSMENT
+Healthcare AI applications.
+Prompt entry and prompt writing.
+Coding.
+DOCUMENTATION & LANGUAGE.
+Clinical documentation
+Medical terminology
+Transcription
+Healthcare content review
+Written communication.
+PROJECTS.
+My portfolio available.
+NURSING + HEALTHCARE + AI + TECHNOLOGY
+ 
 
-<!--
-**Winfredkawira/Winfredkawira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
